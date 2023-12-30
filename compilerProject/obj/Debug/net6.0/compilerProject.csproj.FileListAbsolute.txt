@@ -1,0 +1,15 @@
+E:\.NET Route\csharp\csharp\compilerProject\compilerProject\bin\Debug\net6.0\compilerProject.exe
+E:\.NET Route\csharp\csharp\compilerProject\compilerProject\bin\Debug\net6.0\compilerProject.deps.json
+E:\.NET Route\csharp\csharp\compilerProject\compilerProject\bin\Debug\net6.0\compilerProject.runtimeconfig.json
+E:\.NET Route\csharp\csharp\compilerProject\compilerProject\bin\Debug\net6.0\compilerProject.dll
+E:\.NET Route\csharp\csharp\compilerProject\compilerProject\bin\Debug\net6.0\compilerProject.pdb
+E:\.NET Route\csharp\csharp\compilerProject\compilerProject\obj\Debug\net6.0\compilerProject.csproj.AssemblyReference.cache
+E:\.NET Route\csharp\csharp\compilerProject\compilerProject\obj\Debug\net6.0\compilerProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET Route\csharp\csharp\compilerProject\compilerProject\obj\Debug\net6.0\compilerProject.AssemblyInfoInputs.cache
+E:\.NET Route\csharp\csharp\compilerProject\compilerProject\obj\Debug\net6.0\compilerProject.AssemblyInfo.cs
+E:\.NET Route\csharp\csharp\compilerProject\compilerProject\obj\Debug\net6.0\compilerProject.csproj.CoreCompileInputs.cache
+E:\.NET Route\csharp\csharp\compilerProject\compilerProject\obj\Debug\net6.0\compilerProject.dll
+E:\.NET Route\csharp\csharp\compilerProject\compilerProject\obj\Debug\net6.0\refint\compilerProject.dll
+E:\.NET Route\csharp\csharp\compilerProject\compilerProject\obj\Debug\net6.0\compilerProject.pdb
+E:\.NET Route\csharp\csharp\compilerProject\compilerProject\obj\Debug\net6.0\compilerProject.genruntimeconfig.cache
+E:\.NET Route\csharp\csharp\compilerProject\compilerProject\obj\Debug\net6.0\ref\compilerProject.dll
